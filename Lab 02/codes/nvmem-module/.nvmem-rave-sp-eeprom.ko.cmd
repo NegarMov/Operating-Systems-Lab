@@ -1,0 +1,1 @@
+cmd_/home/maxeu/Desktop/module/nvmem-rave-sp-eeprom.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/maxeu/Desktop/module/nvmem-rave-sp-eeprom.ko /home/maxeu/Desktop/module/nvmem-rave-sp-eeprom.o /home/maxeu/Desktop/module/nvmem-rave-sp-eeprom.mod.o;  true

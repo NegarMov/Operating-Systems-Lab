@@ -1,0 +1,8 @@
+line 1: this is a test file for exercise 4
+line 2 this
+line 3 is 
+line 4 a
+line 5 test
+line 6 file
+line 7 !
+line 8: end of file
